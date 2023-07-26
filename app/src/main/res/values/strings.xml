@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SerialVerify</string>
+    <string-array name="auftrag_array">
+        <item></item>
+        <item>202230450</item>
+        <item>202230451</item>
+        <item>202230452</item>
+        <item>202230453</item>
+    </string-array>
+</resources>
